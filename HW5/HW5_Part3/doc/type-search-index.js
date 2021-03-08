@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cse22.hw5.part3","l":"AgeData"},{"p":"cse22.hw5.part3","l":"AgeSearchTree"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"cse22.hw5.part3","l":"BinarySearchTree"},{"p":"cse22.hw5.part3","l":"BinaryTree"},{"p":"<Unnamed>","l":"DriverClass"},{"p":"cse22.hw5.part3","l":"BinaryTree.Node"},{"p":"cse22.hw5.part3","l":"SearchTree"}]
